@@ -28,3 +28,4 @@ clear
 echo helloc terminal
 echo hello terminal
 pwd
+ls --color=auto
