@@ -43,3 +43,4 @@ ls --color=auto
 cd node_modules
 la
 ls --color=auto
+ls --color=auto -l
