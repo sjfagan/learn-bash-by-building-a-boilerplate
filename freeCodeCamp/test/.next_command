@@ -27,3 +27,4 @@ ls --color=auto
 clear
 echo helloc terminal
 echo hello terminal
+pwd
