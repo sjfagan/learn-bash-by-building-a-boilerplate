@@ -216,3 +216,7 @@ find client/assets/fonts
 find
 rmdir fonts
 rm --help
+ls --color=auto
+rmdir -r fonts
+rmdir-r fonts
+rm -r fonts
