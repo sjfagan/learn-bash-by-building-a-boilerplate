@@ -97,3 +97,4 @@ cd gitpod
 ls --color=auto
 cd /workspace/project/website
 cd .
+touch background.jpg
