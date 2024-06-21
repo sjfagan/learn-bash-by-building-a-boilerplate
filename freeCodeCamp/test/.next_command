@@ -82,3 +82,18 @@ ls --color=auto --help
 ls --color=auto --a
 ls--a
 ls --color=auto --all
+cd.
+cd
+cd .
+cd ..
+ls --color=auto
+cd gitpod
+ls --color=auto
+pwd
+cd ..
+pwd
+ls --color=auto
+cd gitpod
+ls --color=auto
+cd /workspace/project/website
+cd .
