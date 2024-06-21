@@ -64,3 +64,4 @@ cd ../..
 la
 ls --color=auto
 clear
+mkdir website
