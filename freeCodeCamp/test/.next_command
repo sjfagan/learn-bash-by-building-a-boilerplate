@@ -54,3 +54,4 @@ clear
 ls --color=auto
 cd drc
 cd src
+pwd
