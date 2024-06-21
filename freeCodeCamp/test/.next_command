@@ -206,3 +206,4 @@ __vsc_prompt_cmd_original
 touch client/assets/fonts roboto-bold.woff
 client/assets/fonts touch roboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
